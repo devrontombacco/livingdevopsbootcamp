@@ -890,7 +890,13 @@ sudo iotop -o -n 1
 iostat -x 1 2 | grep nvme
 ```
 
----
+![Screenshot](/Class2_logParsing_SystemMonitoring/image34.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image35.png)
+
+done ✅
 
 ## Part 5: Process Management (30 minutes)
 
