@@ -297,12 +297,17 @@ F6   # Sort by column
 F9   # Kill process
 F10  # Quit
 
+
 # Tree view
 htop -t
 
 # Show only user processes
 htop -u ec2-user
 ```
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image12.png)
+
+done ✅
 
 ---
 
