@@ -560,6 +560,14 @@ vmstat
 # so = Memory swapped out to disk
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image27.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image28.png)
+
+done ✅
+
 ---
 
 ### Finding Memory Hogs
