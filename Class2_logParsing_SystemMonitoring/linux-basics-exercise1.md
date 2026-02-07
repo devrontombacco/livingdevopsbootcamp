@@ -361,6 +361,10 @@ w       # First line
 cat /proc/loadavg
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image18.png)
+
+done ✅
+
 **What does load average mean?**
 
 - 1.0 on single-core CPU = 100% utilized
@@ -386,7 +390,13 @@ lscpu
 cat /proc/cpuinfo | grep processor | wc -l
 ```
 
----
+![Screenshot](/Class2_logParsing_SystemMonitoring/image19.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image20.png)
+
+## done ✅
 
 ### Generating CPU Load for Testing
 
