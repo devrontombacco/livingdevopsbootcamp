@@ -502,6 +502,10 @@ free -h
 
 done ✅
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image26.png)
+
+done ✅
+
 **Key insight:** Don't panic if "free" is low. Linux uses free memory for cache. Look at "available" instead.
 
 ---
@@ -520,10 +524,6 @@ top
 htop
 # Visual bars at top show memory usage
 ```
-
-![Screenshot](/Class2_logParsing_SystemMonitoring/image26.png)
-
-done ✅
 
 ---
 
