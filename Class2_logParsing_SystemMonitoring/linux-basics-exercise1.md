@@ -138,6 +138,22 @@ ps -ejH
 ps axjf
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image4.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image5.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image6.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image7.png)
+
+done ✅
+
 **Practice:**
 
 ```bash
