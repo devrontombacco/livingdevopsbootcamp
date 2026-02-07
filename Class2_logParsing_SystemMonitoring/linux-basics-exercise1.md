@@ -101,6 +101,10 @@ ps aux | head -20
 # + = Foreground process
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image3.png)
+
+done ✅
+
 **Common combinations:**
 
 - `Ss` = Sleeping, session leader (typical for daemons)
