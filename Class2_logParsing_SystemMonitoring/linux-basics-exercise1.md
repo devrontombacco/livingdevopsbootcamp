@@ -1366,6 +1366,14 @@ top -p <PID> -d 1 -n 30
 kill <PID>
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image37.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image38.png)
+
+done ✅
+
 ---
 
 ### Exercise 2: Memory Investigation
