@@ -170,6 +170,10 @@ ps -o pid,ppid,cmd -p <PID>
 
 ---
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image8.png)
+
+done ✅
+
 ### Process Hierarchy
 
 ```bash
