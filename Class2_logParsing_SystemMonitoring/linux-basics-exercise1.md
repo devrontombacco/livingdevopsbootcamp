@@ -1424,9 +1424,9 @@ kill $DD_PID
 rm /tmp/bigfile
 ```
 
-<!-- ![Screenshot](/Class2_logParsing_SystemMonitoring/image38.png)
+![Screenshot](/Class2_logParsing_SystemMonitoring/image40.png)
 
-done ✅ -->
+done ✅
 
 ---
 
