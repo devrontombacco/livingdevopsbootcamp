@@ -618,14 +618,6 @@ done ✅
 
 done ✅
 
-<!-- ![Screenshot](/Class2_logParsing_SystemMonitoring/image32.png)
-
-done ✅
-
-![Screenshot](/Class2_logParsing_SystemMonitoring/image33.png)
-
-done ✅ -->
-
 ---
 
 ### Swap Usage
@@ -654,6 +646,10 @@ cat /proc/swaps
 sudo swapoff /swapfile
 sudo rm /swapfile
 ```
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image32.png)
+
+done ✅
 
 **When to worry about swap:**
 
