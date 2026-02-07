@@ -251,6 +251,10 @@ top
 # COMMAND = Process name
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image11.png)
+
+done ✅
+
 **Useful top commands (while running):**
 
 ```bash
