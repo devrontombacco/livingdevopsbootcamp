@@ -690,6 +690,10 @@ ps aux --sort=-%mem | head -2
 pgrep stress-ng | head -1 | xargs ps -o pid,cmd,%mem -p
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image33.png)
+
+done ✅
+
 ---
 
 ## Part 4: I/O Monitoring (30 minutes)
