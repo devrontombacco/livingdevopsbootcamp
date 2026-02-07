@@ -66,9 +66,11 @@ echo '192.168.1.109 - - [08/Jul/2025:10:19:12 +0000] "POST /api/crash HTTP/1.1" 
 echo '192.168.1.110 - - [08/Jul/2025:10:19:34 +0000] "GET /api/success HTTP/1.1" 200 1123 "-" "Mozilla/5.0"' >> server.log
 ```
 
-![Screenshot](/Class2_logParsing_SystemMonitoring/image41.png)
-![Screenshot](/Class2_logParsing_SystemMonitoring/image42.png)
-![Screenshot](/Class2_logParsing_SystemMonitoring/image43.png)
+![Screenshot](/Class3_Linux_Scripting/Exercise1/image41.png)
+
+![Screenshot](/Class3_Linux_Scripting/Exercise1/image42.png)
+
+![Screenshot](/Class3_Linux_Scripting/Exercise1/image43.png)
 
 done ✅
 
