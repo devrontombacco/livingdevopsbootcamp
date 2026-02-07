@@ -26,6 +26,9 @@ sudo yum update -y
 sudo yum install -y htop iotop sysstat stress-ng
 ```
 
+![image](/image1.png)
+done ✅
+
 ---
 
 ## Part 1: Understanding Processes (30 minutes)
