@@ -309,7 +309,9 @@ htop -u ec2-user
 
 done ✅
 
----
+![Screenshot](/Class2_logParsing_SystemMonitoring/image13.png)
+
+done ✅
 
 ### Finding CPU Hogs
 
@@ -326,6 +328,22 @@ ps -eo pid,ppid,cmd,%cpu,%mem --sort=-%cpu | head
 # Find what's using CPU right now
 top -b -n 1 | grep -A 10 "PID USER"
 ```
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image14.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image15.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image16.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image17.png)
+
+done ✅
 
 ---
 
