@@ -1396,6 +1396,10 @@ watch -n 5 "ps -p <PID> -o pid,cmd,%mem,rss"
 vmstat 1 10 | awk '{print $7, $8}'
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image39.png)
+
+done ✅
+
 ---
 
 ### Exercise 3: I/O Testing
@@ -1419,6 +1423,10 @@ iostat -x 1 5 | grep nvme
 kill $DD_PID
 rm /tmp/bigfile
 ```
+
+<!-- ![Screenshot](/Class2_logParsing_SystemMonitoring/image38.png)
+
+done ✅ -->
 
 ---
 
