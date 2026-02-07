@@ -610,6 +610,22 @@ pmap -x <PID>
 pmap -x <PID> | tail -1
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image30.png)
+
+done ✅
+
+<!-- ![Screenshot](/Class2_logParsing_SystemMonitoring/image31.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image32.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image33.png)
+
+done ✅ -->
+
 ---
 
 ### Swap Usage
