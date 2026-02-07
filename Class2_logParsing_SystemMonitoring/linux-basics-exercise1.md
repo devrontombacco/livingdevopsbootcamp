@@ -26,7 +26,8 @@ sudo yum update -y
 sudo yum install -y htop iotop sysstat stress-ng
 ```
 
-![image](/image1.png)
+![Screenshot](/image1.png)
+
 done ✅
 
 ---
