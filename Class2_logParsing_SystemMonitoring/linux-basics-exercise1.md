@@ -191,6 +191,10 @@ systemctl status
 ps -ef --forest
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image9.png)
+
+done ✅
+
 **Key concept:** Kill a parent, all children die too.
 
 ---
