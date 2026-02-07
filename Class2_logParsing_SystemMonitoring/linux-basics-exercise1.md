@@ -614,11 +614,11 @@ pmap -x <PID> | tail -1
 
 done ✅
 
-<!-- ![Screenshot](/Class2_logParsing_SystemMonitoring/image31.png)
+![Screenshot](/Class2_logParsing_SystemMonitoring/image31.png)
 
 done ✅
 
-![Screenshot](/Class2_logParsing_SystemMonitoring/image32.png)
+<!-- ![Screenshot](/Class2_logParsing_SystemMonitoring/image32.png)
 
 done ✅
 
