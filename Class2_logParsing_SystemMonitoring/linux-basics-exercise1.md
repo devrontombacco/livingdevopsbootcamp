@@ -195,6 +195,10 @@ ps -ef --forest
 
 done ✅
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image10.png)
+
+done ✅
+
 **Key concept:** Kill a parent, all children die too.
 
 ---
