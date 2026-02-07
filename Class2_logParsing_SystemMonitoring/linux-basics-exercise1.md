@@ -396,7 +396,7 @@ done ✅
 
 ![Screenshot](/Class2_logParsing_SystemMonitoring/image20.png)
 
-## done ✅
+done ✅
 
 ### Generating CPU Load for Testing
 
@@ -418,6 +418,10 @@ stress-ng --cpu $(nproc) --timeout 60s
 stress-ng --cpu 2 --cpu-load 50 --timeout 30s
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image21.png)
+
+done ✅
+
 **Exercise:**
 
 ```bash
@@ -435,6 +439,10 @@ top
 # 3. What's the total CPU usage?
 top    # Look at %Cpu(s) line
 ```
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image22.png)
+
+done ✅
 
 ---
 
