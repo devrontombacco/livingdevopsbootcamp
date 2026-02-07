@@ -69,6 +69,10 @@ ps aux
 # COMMAND = What's running
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image2.png)
+
+done ✅
+
 **Example output breakdown:**
 
 ```
