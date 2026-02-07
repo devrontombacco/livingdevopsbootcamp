@@ -498,6 +498,10 @@ free -h
 # available = Memory available for new applications
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image25.png)
+
+done ✅
+
 **Key insight:** Don't panic if "free" is low. Linux uses free memory for cache. Look at "available" instead.
 
 ---
