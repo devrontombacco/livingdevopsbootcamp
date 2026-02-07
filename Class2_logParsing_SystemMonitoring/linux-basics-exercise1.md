@@ -1161,6 +1161,10 @@ chmod +x system-monitor.sh
 ./system-monitor.sh
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image36.png)
+
+done ✅
+
 ---
 
 ### Continuous Monitoring
