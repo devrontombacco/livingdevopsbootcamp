@@ -444,6 +444,14 @@ top    # Look at %Cpu(s) line
 
 done ✅
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image23.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image24.png)
+
+done ✅
+
 ---
 
 ## Part 3: Memory Monitoring (45 minutes)
