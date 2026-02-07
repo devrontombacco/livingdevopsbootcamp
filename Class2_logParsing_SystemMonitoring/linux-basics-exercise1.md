@@ -521,6 +521,10 @@ htop
 # Visual bars at top show memory usage
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image26.png)
+
+done ✅
+
 ---
 
 ### Detailed Memory Information
