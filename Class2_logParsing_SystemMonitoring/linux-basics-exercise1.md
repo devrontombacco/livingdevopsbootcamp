@@ -525,6 +525,14 @@ htop
 # Visual bars at top show memory usage
 ```
 
+![Screenshot](/Class2_logParsing_SystemMonitoring/image27.png)
+
+done ✅
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image28.png)
+
+done ✅
+
 ---
 
 ### Detailed Memory Information
@@ -560,7 +568,7 @@ vmstat
 # so = Memory swapped out to disk
 ```
 
-![Screenshot](/Class2_logParsing_SystemMonitoring/image27.png)
+![Screenshot](/Cl)
 
 done ✅
 
