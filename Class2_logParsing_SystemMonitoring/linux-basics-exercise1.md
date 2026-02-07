@@ -561,7 +561,6 @@ vmstat
 ```
 
 ![Screenshot](/Class2_logParsing_SystemMonitoring/image27.png)
-
 done ✅
 
 ![Screenshot](/Class2_logParsing_SystemMonitoring/image28.png)
@@ -588,6 +587,10 @@ top
 htop
 # Press F6, select %MEM
 ```
+
+![Screenshot](/Class2_logParsing_SystemMonitoring/image29.png)
+
+done ✅
 
 ---
 
