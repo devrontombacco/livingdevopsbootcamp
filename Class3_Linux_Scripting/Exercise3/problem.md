@@ -24,6 +24,14 @@ docker run -d --name test-app -p 8080:80 nginx
 chmod +x container_monitor.sh
 ```
 
+![Screenshot](/Class3_Linux_Scripting/Exercise3/image51.png)
+
+done ✅
+
+![Screenshot](/Class3_Linux_Scripting/Exercise3/image52.png)
+
+done ✅
+
 ### 2. Basic Testing
 
 ```bash
