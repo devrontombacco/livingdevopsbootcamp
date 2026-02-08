@@ -87,6 +87,10 @@ sudo chmod +x /usr/local/bin/system_monitor.sh
 sudo /usr/local/bin/system_monitor.sh
 ```
 
+![Screenshot](/Class3_Linux_Scripting/Exercise1/image46.png)
+
+done ✅
+
 ### 2. Crontab Configuration
 
 ```bash
@@ -99,6 +103,10 @@ sudo crontab -e
 # Verify crontab entry
 sudo crontab -l
 ```
+
+![Screenshot](/Class3_Linux_Scripting/Exercise1/image47.png)
+
+done ✅
 
 ### 3. Manual Testing
 
@@ -114,6 +122,18 @@ ls -la /usr/local/system-reports/
 # View a report
 cat /usr/local/system-reports/system_report_*.txt
 ```
+
+![Screenshot](/Class3_Linux_Scripting/Exercise1/image48.png)
+
+done ✅
+
+![Screenshot](/Class3_Linux_Scripting/Exercise1/image49.png)
+
+done ✅
+
+![Screenshot](/Class3_Linux_Scripting/Exercise1/image50.png)
+
+done ✅
 
 ### 4. Validation Steps
 
