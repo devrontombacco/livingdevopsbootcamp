@@ -22,6 +22,10 @@ sudo mkdir -p /usr/local/system-reports
 sudo mkdir -p /var/log
 ```
 
+![Screenshot](/Class3_Linux_Scripting/Exercise2/image44.png)
+
+done ✅
+
 ### 2. Initial Testing
 
 ```bash
