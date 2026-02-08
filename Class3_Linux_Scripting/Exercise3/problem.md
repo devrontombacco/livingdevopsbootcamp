@@ -45,6 +45,14 @@ done ✅
 ./container_monitor.sh test-app
 ```
 
+![Screenshot](/Class3_Linux_Scripting/Exercise3/image53.png)
+
+done ✅
+
+![Screenshot](/Class3_Linux_Scripting/Exercise3/image54.png)
+
+done ✅
+
 ### 3. Interactive Testing
 
 ```bash
