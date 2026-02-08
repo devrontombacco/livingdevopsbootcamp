@@ -66,6 +66,10 @@ done ✅
 # 4 - Start continuous monitoring
 ```
 
+![Screenshot](/Class3_Linux_Scripting/Exercise3/image55.png)
+
+done ✅
+
 ### 4. Command Line Usage
 
 ```bash
@@ -82,6 +86,10 @@ done ✅
 ./container_monitor.sh test-app monitor
 ```
 
+![Screenshot](/Class3_Linux_Scripting/Exercise3/image56.png)
+
+done ✅
+
 ### 5. Stress Testing
 
 ```bash
@@ -91,6 +99,10 @@ docker exec test-app sh -c "yes > /dev/null &"
 # Monitor and watch for CPU alerts
 ./container_monitor.sh test-app check
 ```
+
+![Screenshot](/Class3_Linux_Scripting/Exercise3/image57.png)
+
+done ✅
 
 ### 6. Expected Output
 
