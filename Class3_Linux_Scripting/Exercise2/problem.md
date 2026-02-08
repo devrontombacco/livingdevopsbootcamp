@@ -87,7 +87,7 @@ sudo chmod +x /usr/local/bin/system_monitor.sh
 sudo /usr/local/bin/system_monitor.sh
 ```
 
-![Screenshot](/Class3_Linux_Scripting/Exercise1/image46.png)
+![Screenshot](/Class3_Linux_Scripting/Exercise2/image46.png)
 
 done ✅
 
@@ -104,7 +104,7 @@ sudo crontab -e
 sudo crontab -l
 ```
 
-![Screenshot](/Class3_Linux_Scripting/Exercise1/image47.png)
+![Screenshot](/Class3_Linux_Scripting/Exercise2/image47.png)
 
 done ✅
 
@@ -123,15 +123,15 @@ ls -la /usr/local/system-reports/
 cat /usr/local/system-reports/system_report_*.txt
 ```
 
-![Screenshot](/Class3_Linux_Scripting/Exercise1/image48.png)
+![Screenshot](/Class3_Linux_Scripting/Exercise2/image48.png)
 
 done ✅
 
-![Screenshot](/Class3_Linux_Scripting/Exercise1/image49.png)
+![Screenshot](/Class3_Linux_Scripting/Exercise2/image49.png)
 
 done ✅
 
-![Screenshot](/Class3_Linux_Scripting/Exercise1/image50.png)
+![Screenshot](/Class3_Linux_Scripting/Exercise2/image50.png)
 
 done ✅
 
